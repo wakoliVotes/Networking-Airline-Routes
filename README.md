@@ -36,5 +36,6 @@ GG = nx.Graph()
 ![image](https://user-images.githubusercontent.com/77758884/156382542-4c75f629-f1cc-4a58-83a4-2464d0a597b5.png)
 
 ## Conclusion
+- To get an interactive implementation, follow the Jupter Notebook illustration in the [GitHub Files Section](https://github.com/danny-votez/Python-NetwokX-on-Airline-Routes-and-Destination/blob/main/Python%20NetworkX%20for%20Airline%20Data.ipynb)
 - Read more on Python's NetwokX Package on [Medium Blog](https://medium.com/@dannyvotez/c91dd0982fb9?source=friends_link&sk=e77a0607591e3f2d0c56d5bba9b6748a)
 - For additional information, check out NetworkX Documentation on their official [Website](https://networkx.org/documentation/stable/tutorial.html)
