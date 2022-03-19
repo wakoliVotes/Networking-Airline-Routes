@@ -1,4 +1,4 @@
-## Python NetwokX Package Use to Visualize Airline Carriers, Routes and Destinations
+## Python's NetwokX Package to Visualize Airline Carriers, Routes and Destinations
 - [Introduction](#introduction)
 - [Example 1](#example-1-airlines-flight-and-destination)
 - [Example 2](#example-2-airlines-carrier-and-destination)
